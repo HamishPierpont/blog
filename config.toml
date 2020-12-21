@@ -1,0 +1,4 @@
+baseURL = "https://hamishpierpont.github.io"
+languageCode = "en-us"
+title = "Hamish Pierpont"
+theme = "ananke"
